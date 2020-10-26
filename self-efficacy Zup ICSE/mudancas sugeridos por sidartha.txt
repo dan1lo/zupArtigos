@@ -1,0 +1,51 @@
+sobre aquele artigo que me enviou. segue alguns comentários, não parei para verificar se o que marquei está realmente errado, mas me pareceu errado. marquei e sugeri uma correção.
+
+- that participating of our bootcamp training. é participated não? ou will participate...
+
+- with their abilities to take care own kids. não seria: take care OF own kids?
+
+- if the tasks are easy or very similar to ones already -> already done.
+
+- The individual needs to attempted difficulty tasks --> needs to be attempted
+
+-  to an individual think that cannot perform the tasks  --> that him cannot...
+
+- We highlight some of them follow --> some of them as follow: highlighted 1, 2, etc. OR . some of them bellow.
+
+- conducted an industrial research that found self-efficacy is --> conducted an industrial research that found that self-efficacy is 
+
+-  found that that Self Efficacy is --> agora tem that demais kkkk
+
+- Sugiro colocar um paragrafo introdutorio na seção III para não começar com um topico (A)
+
+- self-efficacy in other area like --> areas
+
+- There is a relationship between training and selfefficacy in Software Engineering. --> bootcamp training
+
+- Another important point is a this investigation is: --> falta algo entre o is a this
+
+- training is eighth week. --> is the ..
+
+- to spend three months of intensive training. --> spend da ideia de perda, perfiro invest or to do.
+
+- They answer questions and about what --> retirar o and 
+
+- At the beginning of each week, a self-efficacy questionnaire is applied so that -->  is applied. So that...
+
+- will be discussed in next section --> in the 
+
+- junior developer to developer or Senior developer to expert developer. --> pq Senior é com S e junior é com j ? minusculo.
+
+- because the main goal of the training is develop in participants --> is to develop
+
+- All items use a Likert scale 1 to 10 --> Likert scale varying from 1 to 10.
+
+- yielded a 3-factor solution with an explained variance of 73.81 --> faltou ponto final.
+
+- Furthermore, We also used --> we minusculo
+
+- em alguns valores usa vírgula e em outros usa pontos, de acordo com a lingua inglesa, todos são pontos para representar valores abaixo de 0.
+
+- Moreover we pretend to apply Confirmatory --> Moreover, (virgula).
+
+- tem alguns números, mas não tem a interpretação deles. senti falta dessa explicação. não conheço as métricas e não entendi muita coisa.
