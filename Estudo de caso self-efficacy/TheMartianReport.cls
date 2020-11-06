@@ -315,7 +315,7 @@
 		
 		\textbf{\textbackslash revision\{Revision 1.0\}}
 		
-		\textbf{\textbackslash footertext\{\textbackslash @title\}\{\textbackslash @author\}}
+		\textbf{\textbackslash footertext\{\textbackslash @title\}}
 		
 		\textbf{\textbackslash imageref\{\}}
 		

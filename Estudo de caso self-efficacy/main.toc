@@ -1,0 +1,13 @@
+\contentsline {subsection}{Abstract}{2}{section*.1}%
+\contentsline {section}{Introduction}{3}{section*.2}%
+\contentsline {section}{Background}{4}{section*.3}%
+\contentsline {subsection}{Self-efficacy in Software Engineering}{5}{section*.4}%
+\contentsline {section}{Research Method}{6}{section*.5}%
+\contentsline {subsection}{Research Question and Hypotheses }{7}{section*.6}%
+\contentsline {subsection}{How we define training}{7}{section*.7}%
+\contentsline {subsection}{How we defined self-efficacy }{8}{section*.8}%
+\contentsline {subsection}{Research Questions}{8}{section*.9}%
+\contentsline {subsection}{Methodological Framework}{8}{section*.10}%
+\contentsline {subsection}{Research Design}{8}{section*.11}%
+\contentsline {section}{Expected results}{9}{section*.12}%
+\contentsline {section}{Conclusion}{10}{section*.13}%

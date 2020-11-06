@@ -1,0 +1,203 @@
+\documentclass{TheMartianReport}
+\usepackage{lipsum}
+
+%%%%%%%%%%%%%%%%%%%%%% COVER PAGE VALUES %%%%%%%%%%%%%%%%%%%%%%
+\title{Case Study Protocol} % Change document title
+\author{Danilo Monteiro Ribeiro, Victor Hugo Santiago and Alberto Souza } % Change author name
+\project{A Protocol About a Case Study of Self Efficacy In Software Engineering } % Change (or omit) project name
+%\date{} % Change displayed date value from default
+\imagefolder{./fig} % Change folder to look for images in
+%\logo{} % Add logo image to cover page
+\revision{Revision 1.0} % Change revision number
+
+%%%%%%%%%%%%%%%%%%%%%%% GENERAL SETTINGS %%%%%%%%%%%%%%%%%%%%%%%
+%\bibliographystyle{abbrvnat} % Change bibliography style
+%\footertext{}{} % Change values in footer text
+%\nofootertext % Hide footer text where header images came from (appear on last page as footnote)
+\drafting % Comment out to hide \temp and \crit sections
+%\sectionnumbers% Sections are major numbers, subsections minor, etc.
+%\subsectionnumbers % Sections not numbered, only begin at subsections and below
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+%\printhelp % Use this to see/print help pages
+
+\subsection{Abstract}
+
+This documents presents a briefly description  about how we intent to conduct a research case study about self-efficacy in Software Engineering at Zup Innovation. 
+
+\section{Introduction}{introduction.png}
+
+Bandura defined self-efficacy as a belief in one’s capabilities to organize and execute the courses of action required to produce given attainments \cite{bandura1977self}. In other words, self-efficacy is how much an individual believes that he/she is capable of doing a specific task.
+
+In other areas, self-efficacy is widely studied. For example, Stajkovic and Luthans \cite{stajkovic1998self} conducted a meta-analysis to understand the effect of self-efficacy on work-related performance. They found that self-efficacy is related to work performance in sports, education, and health workers.
+
+Self-efficacy determines the amount of effort that the individual expended to cope with a task even if it has impediments and difficulties \cite{bandura1977self}. An individual who has less self-efficacy tends to avoid difficulties tasks and to put less effort into completing a task \cite{artino2012academic}.
+
+Additionally, if individuals have low self-efficacy and high skill, their performance can be compromised, for example, because they do not believe in their ability to perform the task and can strive less to complete the task. If they have high self-efficacy and low skill, their performance also can be compromised. For example, the task schedule can be mistakenly estimated or the quality of a proposed solution/decision may not be ideal because they are overconfidence about their knowledge \cite{vancouver2002two}, \cite{pajares1996self} \cite{schunk2009self}. 
+
+Moores and Chang \cite{moores2009self} conducted a study with software engineering students and found that overconfidence self-efficacy is negatively related to performance. Moreover, it was found that when had an intervention (in this case, performing feedback), self-efficacy was positively related to performing. Therefore, recalibrating self-efficacy becomes important to perform appropriately.
+
+Given that, this paper presents a proposal to evaluate an approach to improve and recalibrate self-efficacy through training (bootcamp) in the software development industry. This approach will be tested at a Brazilian organization called Zup Innovation. Zup Innovation has about 1,500 employers and works only with Information Technology. 
+
+In this paper, we briefly introduce the self-efficacy literature, show our research question and hypothesis, our context, how we measure self-efficacy and training, initial results, the expected results and final remarks.
+
+
+
+\section{Background}{review.jpg}
+
+As was said previously, self-efficacy can be defined as the belief in one's own ability to accomplish something successfully  \cite{bandura1977self}. Self-efficacy is proposed as a construct of Social Cognitive Theory \cite{bandura1977social} and also had an own theory purposed by Bandura \cite{bandura1977self}. 
+
+Self-efficacy can change behavior and how individuals perceived the reality \cite{bandura2010self}, the central assumption of self-efficacy is that people generally will only attempt things they believe they can accomplish and will not attempt things they believe they will fail \cite{bandura1977self}. This occurs because individuals generally do not put effort into doing task that they think they cannot. When individuals have a strong sense of efficacy, they believe that they can accomplish even the most difficult tasks. Furthermore, they can see the task as challenges to be mastered, rather than threats to be avoided \cite{bandura1994ramachaudran}.
+
+Bandura affirms that there are four sources of self-efficacy. The most effective way to impact self-efficacy is mastery experiences \cite{bandura1994ramachaudran}. Mastery experiences occur when an individual attempts to do a task, and he/she is successful. This occurs because individuals tend to believe more they are capable to do a task if they did it or did a similar task before,  moreover, have done the task well. A famous example of mastery experience is babysitting. Women who have experience taking care of kids before becoming mothers are more confident with their abilities to take care of own kids \cite{froman1989infant}.
+
+So, to mastering something, an individual "only" has to practice do the task. However, Bandura \cite{bandura1994ramachaudran} presents some important points. For example, if the tasks are easy or very similar to ones already done, self-efficacy may be poorly developed. Another point is that the task needs to be difficult but not impossible. The individual needs to be attempted difficulty tasks and work through obstacles to improve self-efficacy \cite{bandura2010self}. 
+
+Heslin \cite{heslin1999boosting} gives another tip to improve mastery experience: breaking down a difficult task into small steps, which are relatively easy, to ensure a high level of initial success, then, given progressively more difficult task in which feedback. Heslin suggests providing opportunities with workshops, training programs, internships, and clinical experiences to improve mastery experiences. 
+
+
+ Another factor that influences the perception of self-efficacy is vicarious experience. Vicarious experience can occur when an individual observed others' successes and failures who are similar to him/her. Bandura \cite{bandura1977self} comments that watching someone like yourself doing and successfully accomplish something you would like to attempt increases self-efficacy. Conversely, when you are observing someone as you fail, your self-efficacy tends to be negatively impacted. However, failure is not always harmful, when as they feel confident, individuals can avoid repeating the errors they observe about others too \cite{brown2013self}. 
+ Heslin \cite{heslin1999boosting} comments that to improve self-efficacy, a manager can do workshops and training sessions, like mastery, because when individuals are watching others in a training session, the manager can provide observational experiences.
+ 
+ 
+ The third factor affecting self-efficacy is verbal persuasion. When individuals are persuaded verbally, they are more likely to do the task. Having others verbally support the attainment of a task helps support a person's belief in himself or herself \cite{bandura1977self}. Verbal persuasion is frequently used by sports coaches to improve self-efficacy \cite{brown2013self}. Verbal persuasion builds self-efficacy when managers encourage and praise their competence and ability to improve their performance \cite{heslin1999boosting}. 
+ 
+The last factor is physical and emotional states that occur when someone contemplates doing something \cite{bandura1977self}. For example, anxiety, fear, and worry are negatively affecting self-efficacy and can lead to an individual think that him cannot perform the tasks \cite{pajares1996self}.
+
+
+\subsection{Self-efficacy in Software Engineering}
+Some studies investigated self-efficacy as an antecedent, other as consequent in Software Engineering. We highlight some of them bellow. For example, Tsai and Cheng \cite{tsai2010programmer} conducted an industrial research that found that self-efficacy is related positively to intention to knowledge sharing and knowledge sharing. The authors hypothesized that self-efficacy could improve knowledge sharing at software teams.
+
+Another study investigated that the students' programming self-efficacy beliefs had a strong positive impact on the effort and persistence of Software Engineering students. Also, it was found that self-efficacy is negatively related to seeking help \cite{kanaparan2017self}. Arya et al.\cite{arya2012moderating} found that Self Efficacy is positively but not very significantly related to organizational commitment. Fu \cite{fu2010information} found that professional self-efficacy is positively related to the career commitment of Software Engineers. 
+
+Hazzan and Seger \cite{hazzan2010recruiting} identified in their study that high self-efficacy practitioners are:
+
+"\textit{more cooperative, have a greater sense of morale working with their team members, feel that their relationships with co-workers are closer, get better managerial support, report higher needs in achievement, dominance, affiliation, and difference and have better attitudes towards change"}. 
+
+
+Other studies are looking to understand how to improve self-efficacy. For example, Dunlap \cite{dunlap2005problem} observed that the use of Problem-Based Learning could improve the self-efficacy of Software Engineering students. Steinmacher et al. \cite{steinmacher2015increasing} found that an online coach called FLOSScoach had a positive influence on open source newcomers' self-efficacy, making newcomers more confident and comfortable during the project contribution process.
+
+Srisupawong et al. \cite{srisupawong2018relationship} revealed that perceptions of autonomy, meaningfulness, and involvement are positively associate with strong self-efficacy. Furthermore, the students' perceptions of vicarious experiences and perceptions of social persuasions demonstrated a positive relationship with self-efficacy. Perceived physiological and affective states demonstrated a negative influence self-efficacy of computer science students.
+ 
+
+\section{Research Method}{method.png}
+This research proposal comes from a positivist philosophical stances that considers the knowledge must be based on logical inference from a set of observable facts \cite{easterbrook2008selecting}. Positivists are reductionist and studying things by breaking them into simpler components. Positivists prefer methods that start with theories from which verifiable hypotheses can be extracted and tested in isolation \cite{easterbrook2008selecting}. In this research proposal the theory that will guide is Self-efficacy Theory  proposed by Bandura \cite{bandura1977self}.
+
+The empirical method selected for this proposal is survey research. Survey research is a research method for collecting information to describe or explain the knowledge, attitudes, and behavior of participants \cite{easterbrook2008selecting}. 
+
+We intend to use a prospective longitudinal design, that is, studies where the same participants are followed over a period of time. Furthermore, our study is classified as Cohort because all individuals in a defined population are considered over time \cite{caruana2015longitudinal}.
+
+
+\begin{table}[h]
+\centering
+\caption{Research characteristics}
+\begin{tabular}{ll}
+\hline
+Philosophical instance & Positivist   \\ \hline
+Question type          & Relational \\ \hline
+Research nature        & Quantitative \\ \hline
+Research method        & Survey       \\ \hline
+Approach               & Longitudinal   \\ \hline
+Panels                 & Cohort   \\ \hline
+\end{tabular}
+\end{table}
+
+Table 1 summarizes the characteristics of this research proposal.
+
+\subsection{Research Question and Hypotheses }
+
+To conduct this investigation, we have two research questions, first is:
+ \newline
+
+\textbf{\textit{Research Question 1: Is bootcamp training related to perception of self-efficacy in Software Engineering?}}
+ \newline
+ 
+As previously exposed in section \ref{background}, self-efficacy can be changed in many ways. In this study, we chose to investigate the relationship between self-efficacy and training. Several studies investigate a positive impact of training on self-efficacy in other areas like \cite{gist1989effects}, \cite{gist1989influence} and \cite{tannenbaum1991meeting}. Based on this, our first hypothesis is:
+ \newline
+   
+\textbf{\textit{H1 There is a relationship between bootcamp training and self-efficacy in Software Engineering.}}
+ \newline
+   
+The second research question is:
+ \newline
+ 
+\textbf{\textit{Research Question 2:  Are there differences in levels of self-efficacy during training?}}   
+ \newline
+ 
+ Stone \cite{stone1994overconfidence} says that when individuals believe that they will do similar activities to a previous task that already done, the individuals tend to have high self-efficacy. At our bootcamp, all participants already have experience with software development. So, we believe that at the beginning of training, the self-efficacy's participants is high. However, when individuals have more experience with the activities, they tend to recalibrate their self-efficacy when facing difficulties.
+
+Although they already have experience with software development, the intense training aims to improve their career level. We consider that during the training, participants will face unknown situations and seek new knowledge. Thus, we believe that as new skills are required during training, individuals will tend to have less perception of self-efficacy than at the beginning. However, at the end of the training process, we assume that the individuals' self-efficacy will improve and will be greater than in the middle of the process, as the individuals passed will learn to act as required.
+
+Therefore, we have the following hypotheses:
+ \newline
+
+\textbf{\textit{H2 The level of self-efficacy at the beginning of the training will be higher than in the middle of the training.}} \newline
+
+\textbf{\textit{H3 The level of self-efficacy at the end of the training will be higher than in the middle of the training.}}
+ \newline
+
+
+Another important point of this investigation is: the beginning of training is the first week, the middle of training is the fourth week and the end of training is the eighth week. For each data set, mean scores across all items will be calculated for both beginning, middle, and the end of training. Those mean scores will be compared using a paired samples t-test to examine the significance of the difference between them. 
+
+
+In the next sections, we clarify what is training (bootcamp), what is self-efficacy, and how to evaluate it. 
+
+
+\subsection{How we define training}
+At this research, training is defined as bootcamp. Bootcamp is an immersive teaching program that focuses on the relevant technical and behavioral skills. Thereby, the programming bootcamp offers hands-on, high-impact teaching to train developers with the requirements desired by the organization.
+
+Individuals who are selected to participate in the bootcamp are hired by Zup innovation to do three months of intensive training. In the first two months, those selected only train with the content provided by the organization. At third month, those selected are allocated to different development teams on real projects.
+
+At last selection, 933 registrants went through four stages to be selected to our bootcamp. These steps range from code analysis, interviews, and interpersonal assessments. In total, was selected 35 individuals for this bootcamp. Other bootcamps will be created and evaluated. 
+
+The main objective of this training is to accelerate learning and increase/recalibrate the self-efficacy of those involved. For this, a team of experts in the technologies used at Zup innovation was recruited to create practical training on it. Zup created on-line training in which individuals can go the whole way on their own. The training difficulty is increasing during the learning. 
+
+Experts give one hour of theoretical class per day and two more sessions with two hours a week and are available in a virtual room where all participants must be. They answer questions about what are the best ways to face certain problems that arise during training. Besides, there are also events such as dojo and pair programming that take place during the training.
+
+At the beginning of each week, a self-efficacy questionnaire is applied. So, that they can report how much they believe they are capable of in software development activities. More information about the forms will be discussed in the next section.
+
+\subsection{How we defined self-efficacy }
+
+A  self-efficacy scale was developed based on the specifications in the organization's role guide for developers. This role guide was developed by the organization's managers and leaders to assess when a member can update the role level, for example, from Junior developer to developer or Senior developer to expert developer. We chose to apply the role developer self-efficacy at bootcamp because the main goal of the training is to develop in participants the ability to perform tasks at the developer level.
+
+The role guide has three dimensions: the performance dimension related to how much the member can deliver and supports the team's delivery. The technical domain dimension, which is related to how much the member has ownership over the tools and technology used in the company, and finally, the dimension of supporting culture, which measures how much the members can support the organization's culture. The scale created from the organization's role guide is called Role Self-efficacy.
+
+The scale was developed on Bandura's proposal to create questionnaires on self-efficacy \cite{bandura2010self}. All items use a Likert scale varying from 1 to 10. Examples of items are as follow:
+
+
+\begin{itemize}
+\item I am able to positively impact the quality of the software.
+\item I am able to produce code that is easy to maintain and read for other zuppers.
+\item I am able to produce efficient and scalable solutions.
+\end{itemize}
+
+\subsection{Research Questions} 
+\lipsum[500]
+
+\subsection{Methodological Framework} 
+\lipsum[500]
+
+\subsection{Research Design} 
+\lipsum[500]
+
+
+\section{Expected results}{expectResults.jpg}
+As mentioned above, self-efficacy can be related to performance and can be impacted by training. Therefore, this work aims to clarify the importance of developing self-efficacy in Software Engineering. 
+The main contribution of the study proposed in this paper is the identification of the relationship between training (bootcamp) and self-efficacy. Moreover, we pretend to understand how self-efficacy change during the weeks of training.  We believe that organizations should train and develop individuals' skills and their self-efficacy to perform better. 
+
+Other relationships can be investigated in future works. For example, the relationship between self-efficacy and performance in an industrial context.  This relationship already was investigate in academic setting \cite{davazdahemami2018training} in Software Engineering and is very important. 
+
+Finally, this research should be a important step towards the consolidation of self-efficacy and training in industrial context in Software Engineering research.
+
+
+
+\section{Conclusion}{conclusion.jpg}
+\lipsum[500]
+
+
+\bibliography{citations.bib}
+
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
