@@ -140,3 +140,40 @@ Iberoamerican Conference on Software Engineering (CIbSE 2020)
 	- RET - Requirements Engineering Track
 
 	- ESELAW - Experimental Software Engineering Track
+
+ICSE International Conference on Software Engineering - A1
+
+ICSME: IEEE International Conference on Software Maintenance and Evolution - A1
+
+SAC: ACM Symposium on Applied Computing - A1
+
+FSE : ACM SIGSOFT International Symposium on Foundations of Software Engineering - A1
+
+ICST: IEEE International Conference on Software Testing, Verification and Validation (ICST) - A2
+
+CCGRID: 21th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing - A1
+
+CLOSER: 11th International Conference on Cloud Computing and Services Science - A2
+
+SSBSE: International Conference on Search based Software Engineering - B1 [Ótimo para a ferramenta de refatoração]
+
+ICEIS: International Conference on Enterprise Information Systems - B2
+
+OOPSLA: ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications - A1
+
+
+ENASE: Evaluation of Novel Approaches to Software Engineering - B2
+
+
+SEKE: International Conference on Software Engineering and Knowledge Engineering - B1
+
+CIBSE: Software Engineering (SE) in Ibero-America - B4
+
+SBQS: Simpósio Brasileiro de Qualidade de Software - B3
+
+JOURNALS
+Software: Practice and Experience - https://onlinelibrary.wiley.com/journal/1097024x - A2
+
+Information and Software Technology - https://www.journals.elsevier.com/information-and-software-technology - A2
+
+Empirical Software Engineering - https://www.springer.com/journal/10664 - B1
