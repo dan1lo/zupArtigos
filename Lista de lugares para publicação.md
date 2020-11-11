@@ -1,28 +1,16 @@
 #Este arquivo contém os principais veículos de comunicação sobre Engenharia de Software e suas datas. Eles precisam ser atualizados constatemente, por favor entre em contato. Ou mande a atualização. 
 
 **Software Engineering Education and Training**
+		
 	Important Dates—Research Papers, Experience Reports, Idea Papers, Tool Papers
 	JSEET Submissions Deadline: 18 October 2020
 	JSEET Acceptance Notification: 15 January 2021
 	JSEET Camera Ready: 12 February 2021
-	Foundational research on software engineering skills
-	Methods of teaching software engineering skills
-	Methods of evaluating, assessing, and measuring software engineering skills
-	Evaluations of teaching and assessment methods in software engineering
-	Empirical studies describing software engineering education contexts
-	Learning technologies and tools that support software engineering education and training
-	Automated evaluation of software engineering skills
-	Role of soft skills (communication, collaboration, teamwork, organization, negotiation, conflict management) for software engineers
-	Studies of equity, diversity, and inclusion in software engineering education and training
-	Onboarding and on-the-job training of software engineers
-	Continuing education of software engineers
-	Extra-curricular training of software engineering students (e.g., through hackathons, bootcamps)
-	Certification of software engineers
-	Software engineering body of knowledge
-	Role of culture and gender in software engineering education and training
-	Use of online sources for software engineering education
-	Encouraging software engineering education in K-12 programs
 
+*Foundational research on software engineering skills Methods of teaching software engineering skills Methods of evaluating, assessing, and measuring software engineering skills Evaluations of teaching and assessment methods in software engineering 	Empirical studies describing software engineering education contexts Learning technologies and tools that support software engineering education and training Automated evaluation of software engineering skills Role of soft skills (communication, collaboration, teamwork, organization, negotiation, conflict management) for software engineers Studies of equity, diversity, and inclusion in software engineering education and training Onboarding and on-the-job training of software engineers 	Continuing education of software engineers 	Extra-curricular training of software engineering students (e.g., through hackathons, bootcamps) Certification of software engineers Software engineering body of knowledge Role of culture and gender in software engineering education and training Use of online sources for software engineering education 	Encouraging software engineering education in K-12 programs* 
+
+
+	
 **ESEM - International Symposium on Empirical Software Engineering and Measurement**
 	
 		Technical Papers
