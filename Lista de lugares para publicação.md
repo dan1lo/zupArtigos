@@ -1,4 +1,4 @@
-#Este arquivo contém os principais veículos de comunicação sobre Engenharia de Software e suas datas. Eles precisam ser atualizados constatemente, por favor entre em contato. Ou mande a atualização. 
+# Este arquivo contém os principais veículos de comunicação sobre Engenharia de Software e suas datas. Eles precisam ser atualizados constatemente, por favor entre em contato. Ou mande a atualização.
 
 **Software Engineering Education and Training**
 		
@@ -74,25 +74,25 @@
 		-Notificação de aceitação: 17 de julho de 2020 14 de agosto de 2020
 		-Envio da versão final: 7 de agosto de 2020 24 de agosto de 2020
 
+*Serão aceitas submissões relacionadas (mas não limitadas) aos seguintes temas:
+Boas práticas e práticas inovadoras para o ensino de Engenharia de Software
+Currículo ou projetos de curso inovadores
+Ensino de Engenharia de Software no contexto dos diferentes cursos de Graduação e de Pós-graduação
+Ensino de métodos, técnicas e ferramentas para o desenvolvimento de software
+Ensino de Engenharia de Software em ambientes informais, tais como hackathons e Stack Overflow
+Ambientes educacionais emergentes para Engenharia de Software, tais como aprendizado on-line
+Experiências de ensino/aprendizado utilizando abordagens em novos cenários práticos da Engenharia de Software, tais como métodos ágeis, código aberto, desenvolvimento distribuído de software, Computação em Nuvem, Big Data, dispositivos móveis, sistemas embarcados, robótica e outros
+Ferramentas e métodos para avaliação do aprendizado de Engenharia de Software
+Ensino/aprendizado de aspectos humanos, políticos, éticos, legais, profissionais e sociais na Engenharia de Software
+Integração de experiências práticas no ensino da Engenharia de Software
+Integração entre pesquisa e ensino de Engenharia de Software
+Interdisciplinaridade em Engenharia de Software
+Métodos inovadores que promovem o estudo e estimulam o aprendizado de professores, mantendo-os atualizados para o ensino de Engenharia de Software
+Ensino em Engenharia de Software que estimula o empreendedorismo, especialmente a criação de start-ups
+Pesquisas sobre igualdade, diversidade e inclusão em Engenharia de Software
+Código aberto no ensino de Engenharia de Software
+Ensino/aprendizagem de tópicos emergentes em Engenharia de Software*
 
-	*Serão aceitas submissões relacionadas (mas não limitadas) aos seguintes temas:
-	Boas práticas e práticas inovadoras para o ensino de Engenharia de Software
-	Currículo ou projetos de curso inovadores
-	Ensino de Engenharia de Software no contexto dos diferentes cursos de Graduação e de Pós-graduação
-	Ensino de métodos, técnicas e ferramentas para o desenvolvimento de software
-	Ensino de Engenharia de Software em ambientes informais, tais como hackathons e Stack Overflow
-	Ambientes educacionais emergentes para Engenharia de Software, tais como aprendizado on-line
-	Experiências de ensino/aprendizado utilizando abordagens em novos cenários práticos da Engenharia de Software, tais como métodos ágeis, código aberto, desenvolvimento distribuído de software, Computação em Nuvem, Big Data, dispositivos móveis, sistemas embarcados, robótica e outros
-	erramentas e métodos para avaliação do aprendizado de Engenharia de Software
-	Ensino/aprendizado de aspectos humanos, políticos, éticos, legais, profissionais e sociais na Engenharia de Software
-	Integração de experiências práticas no ensino da Engenharia de Software
-	Integração entre pesquisa e ensino de Engenharia de Software
-	Interdisciplinaridade em Engenharia de Software
-	Métodos inovadores que promovem o estudo e estimulam o aprendizado de professores, mantendo-os atualizados para o ensino de Engenharia de Software
-	Ensino em Engenharia de Software que estimula o empreendedorismo, especialmente a criação de start-ups
-	Pesquisas sobre igualdade, diversidade e inclusão em Engenharia de Software
-	Código aberto no ensino de Engenharia de Software
-	Ensino/aprendizagem de tópicos emergentes em Engenharia de Software*
 **XXXIV Simpósio Brasileiro de Engenharia de Software
 	Chamada de Trabalhos – Trilha de Pesquisa**
 
